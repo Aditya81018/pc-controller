@@ -1,0 +1,67 @@
+{
+  "RetroArch Port 1": {
+    "UP": "UP",
+    "LEFT": "LEFT",
+    "DOWN": "DOWN",
+    "RIGHT": "RIGHT",
+    "X": "Z",
+    "Y": "X",
+    "A": "C",
+    "B": "V",
+    "SELECT": "RIGHTSHIFT",
+    "START": "ENTER",
+    "BACK": "BACKSPACE",
+    "L1": "N",
+    "R1": "M",
+
+    "HOTKEYS": {
+      "MENU": "F1",
+      "QUIT": "ESC",
+      "RESET": "F2",
+      "SAVE": "F3",
+      "LOAD": "F4",
+      "SCREENSHOT": "F8",
+      "FULLSCREEN": "F11",
+      "FPS": "F12"
+    }
+  },
+
+  "RetroArch Port 2": {
+    "UP": "W",
+    "LEFT": "A",
+    "DOWN": "S",
+    "RIGHT": "D",
+    "X": "1",
+    "Y": "2",
+    "A": "3",
+    "B": "4",
+    "L1": "Q",
+    "R1": "E"
+  },
+
+  "RetroArch Port 3": {
+    "UP": "T",
+    "LEFT": "F",
+    "DOWN": "G",
+    "RIGHT": "H",
+    "X": "5",
+    "Y": "6",
+    "A": "7",
+    "B": "8",
+    "L1": "R",
+    "R1": "Y"
+  },
+
+  "RetroArch Port 4": {
+    "UP": "I",
+    "LEFT": "J",
+    "DOWN": "K",
+    "RIGHT": "L",
+    "X": "9",
+    "Y": "0",
+    "A": "P",
+    "B": "B",
+    "L1": "U",
+    "R1": "O"
+  }
+}
